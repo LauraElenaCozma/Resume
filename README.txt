@@ -1,34 +1,3 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Repository containing:
+1. Files used to create my Resume with Github Pages. You can check it [here] (https://lauraelenacozma.github.io/Resume/?fbclid=IwAR1wbHk31MS1NtNXfq-60Oq8VeatqHA1GiBsECVV6VA-hVjPpgFYXYuO01Y).
+2. Solution for the problem: Given an array of integers A will find all the pairs of numbers that if subtracted will result in a specific given number M. For example for the array A={4,5,10,11,6} and the number M=-1 will return the following pairs: 0-1, 2-3, 1-4. This means that A[0]-A[1]=4-5=-1 A[2]-A[3]=10-11=-1 si A[1]-A[4]=5-6=-1. 
